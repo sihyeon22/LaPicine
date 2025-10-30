@@ -16,8 +16,8 @@ void	ft_print_result(char res[5], int a, int b)
 
 void	ft_print_comb2(void)
 {
-	int		a;
-	int		b;
+	int	a;
+	int	b;
 	char	res[5];
 
 	a = 0;
